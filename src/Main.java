@@ -5,5 +5,6 @@ public class Main {
         System.out.println("local");
         System.out.println("remote!");
          System.out.println("11111!");
+System.out.println("11111!");
     }
 }
